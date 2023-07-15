@@ -2,7 +2,6 @@
 
 Simple graphical minesweeper game made in rust with the [macroquad](https://github.com/not-fl3/macroquad) game library.
 
+![Example screenshot](screenshot.png)
 
-
-...
-Still needs a game-over menu 🙃.
+Caution: game-over menu still not implemented 🙃.
